@@ -80,3 +80,21 @@ footer {
     color:aqua;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+/* Estilos para el botón */
+button {
+    background-color: #1058b6bd; /* Color de fondo llamativo */
+    color: rgb(241, 245, 16); /* Color de texto */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s; /* Transición suave al cambiar de color */
+}
+
+/* Estilos para el efecto hover */
+button:hover {
+    background-color: #c50a19; /* Cambia el color de fondo en hover */
+    color: #51b7bb;
+}

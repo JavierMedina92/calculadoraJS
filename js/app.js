@@ -35,3 +35,7 @@ botones.forEach(boton => {
         }
     })
 })
+
+function redireccionar() {
+    window.location.href = "https://desarrollowebjaviermedina.netlify.app/";
+}
