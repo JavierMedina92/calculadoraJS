@@ -65,3 +65,18 @@ body {
 #igual:hover {
     background-color: orangered;
 }
+
+h1 {
+    color: rgb(132, 20, 236);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+span {
+    color:aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer {
+    color:aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
